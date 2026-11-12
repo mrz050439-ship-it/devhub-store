@@ -1,0 +1,505 @@
+{
+  "apps": [
+    {
+      "id": "app-1",
+      "title": "أذكار ونور",
+      "developer": "مختبرات التقنية الإسلامية",
+      "category": "أدوات",
+      "categoryKey": "tools",
+      "rating": 4.9,
+      "reviewCount": 48200,
+      "downloads": "1.5M+",
+      "downloadCount": 1540001,
+      "size": "28 MB",
+      "version": "3.4.1",
+      "updatedAt": "اليوم",
+      "gradient": "from-emerald-400 via-teal-500 to-emerald-700",
+      "shadowColor": "rgba(16, 185, 129, 0.25)",
+      "emoji": "📿",
+      "shortDesc": "رفيقك اليومي للذكر والقرآن الكريم وأوقات الصلاة بتصميم هادئ ومريح للعين.",
+      "fullDesc": "تطبيق أذكار ونور صُمم ليكون بوابتك اليومية للطمأنينة. يوفر حصن المسلم كاملاً، قراءة المصحف الشريف بخط واضح، ومسبحة إلكترونية تفاعلية تحفظ إنجازك دون أي إعلانات مزعجة.",
+      "features": [
+        "تنبيهات هادئة للأذكار",
+        "مصحف المدينة الليلي",
+        "مسبحة لمسية ذكية",
+        "تحديد القبلة بدون نت"
+      ],
+      "screenshots": [
+        "الورد اليومي للأذكار",
+        "المصحف الشريف بالنمط الليلي",
+        "بوصلة القبلة الذكية"
+      ],
+      "isFeatured": true,
+      "isPopular": true,
+      "isRecent": false,
+      "createdAt": "2026-10-13T12:44:45.878Z",
+      "reviews": [
+        {
+          "id": "r1",
+          "userName": "عبدالله الشمري",
+          "avatar": "👨‍💼",
+          "rating": 5,
+          "date": "قبل 3 أيام",
+          "comment": "تطبيق رائع جداً ومريح للعين، تصميمه الداكن أنيق للغاية وبدون إعلانات."
+        },
+        {
+          "id": "r2",
+          "userName": "سارة الزهراني",
+          "avatar": "👩‍💻",
+          "rating": 5,
+          "date": "قبل أسبوع",
+          "comment": "المسبحة الإلكترونية وتنبيهات أوقات الصلاة دقيقة جداً. جزاكم الله خيراً."
+        }
+      ],
+      "appType": "android_native",
+      "apkFileName": "أذكار_ونور_v3.4.1.apk",
+      "packageName": "com.matjari.app-1",
+      "minAndroidVersion": "Android 8.0+",
+      "apkDownloadUrl": "/api/download/app-1"
+    },
+    {
+      "id": "app-2",
+      "title": "سباق صحراء العرب",
+      "developer": "استوديو نجد للألعاب",
+      "category": "ألعاب",
+      "categoryKey": "games",
+      "rating": 4.8,
+      "reviewCount": 31400,
+      "downloads": "2.8M+",
+      "downloadCount": 2820000,
+      "size": "145 MB",
+      "version": "2.1.0",
+      "updatedAt": "أمس",
+      "gradient": "from-amber-400 via-orange-500 to-red-600",
+      "shadowColor": "rgba(245, 158, 11, 0.25)",
+      "emoji": "🏎️",
+      "shortDesc": "تحديات التطعيس والسباقات الواقعية في رمال وكثبان شبه الجزيرة العربية.",
+      "fullDesc": "انطلق في أقوى لعبة سباق سيارات واقعية مخصصة للبيئة الصحراوية. قم بتعديل مركبتك الرباعية، وتحد أصدقاءك في سباقات أونلاين حماسية مع فيزياء قيادة متطورة وصوت محركات واقعي.",
+      "features": [
+        "30 سيارة رباعية قابلة للتعديل",
+        "سباق جماعي عبر الإنترنت",
+        "فيزياء رمال متقدمة",
+        "طقس ديناميكي وعواصف"
+      ],
+      "screenshots": [
+        "مضمار كثبان الربع الخالي",
+        "كراج الترقية وتعديل المحرك",
+        "لوحة المتصدرين الأسبوعية"
+      ],
+      "isFeatured": true,
+      "isPopular": true,
+      "isRecent": false,
+      "createdAt": "2026-10-18T12:44:45.878Z",
+      "reviews": [
+        {
+          "id": "r3",
+          "userName": "فيصل المطيري",
+          "avatar": "🏎️",
+          "rating": 5,
+          "date": "أمس",
+          "comment": "الفيزياء وتجاوب السيارات فوق الرمال لا مثيل له، لعبة إدمانية وممتعة!"
+        }
+      ],
+      "appType": "android_native",
+      "apkFileName": "سباق_صحراء_العرب_v2.1.0.apk",
+      "packageName": "com.matjari.app-2",
+      "minAndroidVersion": "Android 8.0+",
+      "apkDownloadUrl": "/api/download/app-2"
+    },
+    {
+      "id": "app-3",
+      "title": "طقس العرب المباشر",
+      "developer": "شبكة أرصاد المستقبل",
+      "category": "أدوات",
+      "categoryKey": "tools",
+      "rating": 4.8,
+      "reviewCount": 22100,
+      "downloads": "950K+",
+      "downloadCount": 955000,
+      "size": "18 MB",
+      "version": "4.0.2",
+      "updatedAt": "اليوم",
+      "gradient": "from-sky-400 via-blue-500 to-indigo-600",
+      "shadowColor": "rgba(14, 165, 233, 0.25)",
+      "emoji": "🌦️",
+      "shortDesc": "رادار مباشر للأمطار وتوقعات دقيقة لدرجات الحرارة والرياح لكل المدن.",
+      "fullDesc": "تطبيق الطقس الأكثر دقة للمنطقة العربية، يعتمد على رادارات متقدمة لتتبع السحب الماطرة والعواصف الترابية ساعة بساعة مع ويدجت أنيق لشاشتك.",
+      "features": [
+        "رادار أقمار صناعية حي",
+        "توقعات دقيقة لـ 14 يوماً",
+        "تنبيهات فورية بالأمطار",
+        "مؤشرات جودة الهواء"
+      ],
+      "screenshots": [
+        "رادار السحب الحية التفاعلي",
+        "شاشة الطقس اللحظية للمدن"
+      ],
+      "isFeatured": false,
+      "isPopular": true,
+      "isRecent": true,
+      "createdAt": "2026-11-07T12:44:45.878Z",
+      "reviews": [
+        {
+          "id": "r4",
+          "userName": "أحمد القحطاني",
+          "avatar": "👨",
+          "rating": 5,
+          "date": "اليوم",
+          "comment": "توقعاته للمطر في مدينتي كانت دقيقة بالدقيقة!"
+        }
+      ],
+      "appType": "android_native",
+      "apkFileName": "طقس_العرب_المباشر_v4.0.2.apk",
+      "packageName": "com.matjari.app-3",
+      "minAndroidVersion": "Android 8.0+",
+      "apkDownloadUrl": "/api/download/app-3"
+    },
+    {
+      "id": "app-4",
+      "title": "مدرستي الذكية",
+      "developer": "مؤسسة حلول التعليم",
+      "category": "تعليم",
+      "categoryKey": "education",
+      "rating": 4.7,
+      "reviewCount": 15300,
+      "downloads": "700K+",
+      "downloadCount": 710000,
+      "size": "34 MB",
+      "version": "1.9.4",
+      "updatedAt": "قبل 3 أيام",
+      "gradient": "from-violet-400 via-purple-500 to-indigo-700",
+      "shadowColor": "rgba(139, 92, 246, 0.25)",
+      "emoji": "🎓",
+      "shortDesc": "منصة تعليمية تفاعلية للدروس المبسطة، بنك الاختبارات والمتابعة الدراسية.",
+      "fullDesc": "بيئة تعليمية شاملة تجمع الطلاب والمعلمين، وتوفر ملخصات دراسية واختبارات تفاعلية تقيس نقاط القوة والضعف مع شروحات بالفيديو لجميع المراحل.",
+      "features": [
+        "شروحات فيديو تفاعلية",
+        "بنك أسئلة يحتوي 50 ألف سؤال",
+        "جدول مذاكرة ذكي",
+        "تقارير أداء دورية"
+      ],
+      "screenshots": [
+        "الفصول التفاعلية والمقررات",
+        "شاشة الاختبار والتقييم الفوري"
+      ],
+      "isFeatured": false,
+      "isPopular": false,
+      "isRecent": true,
+      "createdAt": "2026-11-09T12:44:45.878Z",
+      "reviews": [
+        {
+          "id": "r5",
+          "userName": "مريم العتيبي",
+          "avatar": "👩‍🏫",
+          "rating": 5,
+          "date": "قبل أسبوع",
+          "comment": "سهل على أبنائي مراجعة دروس الرياضيات والعلوم قبل الامتحانات."
+        }
+      ],
+      "appType": "webview",
+      "apkFileName": "مدرستي_الذكية_v1.9.4.apk",
+      "packageName": "com.matjari.app-4",
+      "minAndroidVersion": "Android 8.0+",
+      "webViewUrl": "https://app-preview.matjari.app",
+      "apkDownloadUrl": "/api/download/app-4"
+    },
+    {
+      "id": "app-5",
+      "title": "نبض المحادثة",
+      "developer": "سحابة الخليج للبرمجيات",
+      "category": "تواصل",
+      "categoryKey": "social",
+      "rating": 4.8,
+      "reviewCount": 64000,
+      "downloads": "3.2M+",
+      "downloadCount": 3250000,
+      "size": "42 MB",
+      "version": "5.2.0",
+      "updatedAt": "قبل 4 أيام",
+      "gradient": "from-fuchsia-400 via-pink-500 to-rose-600",
+      "shadowColor": "rgba(236, 72, 153, 0.25)",
+      "emoji": "💬",
+      "shortDesc": "تطبيق مراسلة فورية مشفر فائق السرعة ومكالمات صوت وفيديو عالية الوضوح.",
+      "fullDesc": "تواصل مع العائلة والأصدقاء بأمان تام وتشفير طرف إلى طرف. شارك الملفات والصور بجودتها الكاملة واستمتع بمكالمات صوتية ومرئية فائقة النقاء.",
+      "features": [
+        "تشفير تام للرسائل",
+        "مكالمات فيديو بدقة HD",
+        "مجموعات حتى 100 ألف عضو",
+        "ملصقات عربية حصرية"
+      ],
+      "screenshots": [
+        "واجهة المحادثات المشفرة",
+        "مكالمات الفيديو الجماعية بدقة HD"
+      ],
+      "isFeatured": false,
+      "isPopular": true,
+      "isRecent": false,
+      "createdAt": "2026-10-23T12:44:45.878Z",
+      "reviews": [
+        {
+          "id": "r6",
+          "userName": "ياسر الحربي",
+          "avatar": "👨‍💻",
+          "rating": 5,
+          "date": "قبل يومين",
+          "comment": "سرعة إرسال الرسائل والصوتيات مذهلة، وجودة المكالمات تفوقت على التطبيقات الشهيرة."
+        }
+      ],
+      "appType": "android_native",
+      "apkFileName": "نبض_المحادثة_v5.2.0.apk",
+      "packageName": "com.matjari.app-5",
+      "minAndroidVersion": "Android 8.0+",
+      "apkDownloadUrl": "/api/download/app-5"
+    },
+    {
+      "id": "app-6",
+      "title": "محفظة ريال الذكية",
+      "developer": "التقنية المالية الآمنة",
+      "category": "مالية",
+      "categoryKey": "finance",
+      "rating": 4.9,
+      "reviewCount": 39800,
+      "downloads": "1.9M+",
+      "downloadCount": 1910000,
+      "size": "31 MB",
+      "version": "2.8.5",
+      "updatedAt": "أمس",
+      "gradient": "from-emerald-400 via-cyan-500 to-blue-600",
+      "shadowColor": "rgba(6, 182, 212, 0.25)",
+      "emoji": "💳",
+      "shortDesc": "إدارة مصاريفك الشخصية، دفع الفواتير وتتبع ميزانيتك الشهرية بكل بساطة.",
+      "fullDesc": "تطبيق مالي ذكي يساعدك على متابعة مصروفاتك وتصنيفها تلقائياً مع تنبيهات عند الاقتراب من سقف الميزانية، وخطط ادخار لتحقيق أهدافك.",
+      "features": [
+        "تصنيف تلقائي للنفقات",
+        "تقارير بيانية تفاعلية",
+        "تحديد ميزانية لكل بند",
+        "تصدير التقارير المالية"
+      ],
+      "screenshots": [
+        "لوحة القيادة المالية الشهرية",
+        "الرسم البياني لتوزيع النفقات"
+      ],
+      "isFeatured": false,
+      "isPopular": true,
+      "isRecent": false,
+      "createdAt": "2026-10-28T12:44:45.878Z",
+      "reviews": [
+        {
+          "id": "r7",
+          "userName": "سلطان الدوسري",
+          "avatar": "💼",
+          "rating": 5,
+          "date": "قبل 4 أيام",
+          "comment": "ساعدني هذا التطبيق في ادخار ربع راتبي في أول شهرين!"
+        }
+      ],
+      "appType": "webview",
+      "apkFileName": "محفظة_ريال_الذكية_v2.8.5.apk",
+      "packageName": "com.matjari.app-6",
+      "minAndroidVersion": "Android 8.0+",
+      "webViewUrl": "https://app-preview.matjari.app",
+      "apkDownloadUrl": "/api/download/app-6"
+    },
+    {
+      "id": "app-7",
+      "title": "مساعد المهام والتركيز",
+      "developer": "أفكار رقمية للإنتاجية",
+      "category": "أدوات",
+      "categoryKey": "tools",
+      "rating": 4.7,
+      "reviewCount": 18200,
+      "downloads": "820K+",
+      "downloadCount": 825000,
+      "size": "22 MB",
+      "version": "3.1.2",
+      "updatedAt": "قبل أسبوع",
+      "gradient": "from-cyan-400 via-teal-500 to-indigo-600",
+      "shadowColor": "rgba(20, 184, 166, 0.25)",
+      "emoji": "⚡",
+      "shortDesc": "نظم يومك وركز على إنجاز أهدافك بمؤقت بومودورو وقوائم المهام الذكية.",
+      "fullDesc": "أداة الإنتاجية المفضلة لرواد الأعمال والطلاب. تنظم مهامك حسب الأولوية وتوفر مؤقت تركيز مدمج يعزل المشتتات ويقيس إنجازك اليومي.",
+      "features": [
+        "مؤقت بومودورو مع أصوات هادئة",
+        "قوائم مهام مرنة",
+        "مزامنة سحابية فورية",
+        "إحصائيات إنجاز أسبوعية"
+      ],
+      "screenshots": [
+        "مؤقت التركيز الفائق",
+        "قوائم المهام اليومية المرنة"
+      ],
+      "isFeatured": false,
+      "isPopular": false,
+      "isRecent": true,
+      "createdAt": "2026-11-05T12:44:45.878Z",
+      "reviews": [
+        {
+          "id": "r8",
+          "userName": "هند السبيعي",
+          "avatar": "👩‍🎓",
+          "rating": 5,
+          "date": "قبل أسبوعين",
+          "comment": "أصبح إنجاز واجباتي وبحوثي الجامعية أسهل بكثير."
+        }
+      ],
+      "appType": "android_native",
+      "apkFileName": "مساعد_المهام_والتركيز_v3.1.2.apk",
+      "packageName": "com.matjari.app-7",
+      "minAndroidVersion": "Android 8.0+",
+      "apkDownloadUrl": "/api/download/app-7"
+    },
+    {
+      "id": "app-8",
+      "title": "مدرب اللياقة والصحة",
+      "developer": "فيتنس كير كوتش",
+      "category": "تعليم",
+      "categoryKey": "education",
+      "rating": 4.8,
+      "reviewCount": 29500,
+      "downloads": "1.2M+",
+      "downloadCount": 1240000,
+      "size": "56 MB",
+      "version": "2.6.0",
+      "updatedAt": "قبل 3 أيام",
+      "gradient": "from-rose-400 via-red-500 to-orange-600",
+      "shadowColor": "rgba(244, 63, 94, 0.25)",
+      "emoji": "🌿",
+      "shortDesc": "تمارين منزلية موجهة، حساب السعرات للأكلات العربية وعداد خطوات دقيق.",
+      "fullDesc": "حول هاتفك إلى مدرب شخصي وأخصائي تغذية. خطط تمارين بدون أوزان، وجداول وجبات مخصصة لهدفك، مع متابعة دقيقة لمؤشرات نشاطك اليومي.",
+      "features": [
+        "تمارين فيديو ثلاثية الأبعاد",
+        "حاسبة أكلات عربية",
+        "عداد خطوات موفر للطاقة",
+        "تذكير ذكي بشرب الماء"
+      ],
+      "screenshots": [
+        "خطة التمرين المنزلي",
+        "جدول حساب السعرات والماكروز"
+      ],
+      "isFeatured": false,
+      "isPopular": true,
+      "isRecent": true,
+      "createdAt": "2026-11-08T12:44:45.878Z",
+      "reviews": [
+        {
+          "id": "r9",
+          "userName": "فهد البقمي",
+          "avatar": "🏋️‍♂️",
+          "rating": 5,
+          "date": "قبل 3 أيام",
+          "comment": "التمارين المنزلية واضحة جداً وجدول الأكلات العربية ساعدني كثيراً."
+        }
+      ],
+      "appType": "webview",
+      "apkFileName": "مدرب_اللياقة_والصحة_v2.6.0.apk",
+      "packageName": "com.matjari.app-8",
+      "minAndroidVersion": "Android 8.0+",
+      "webViewUrl": "https://app-preview.matjari.app",
+      "apkDownloadUrl": "/api/download/app-8"
+    },
+    {
+      "id": "app-9",
+      "title": "استوديو الصور الاحترافي",
+      "developer": "بيكسل برو للوسائط",
+      "category": "أدوات",
+      "categoryKey": "tools",
+      "rating": 4.6,
+      "reviewCount": 21000,
+      "downloads": "1.1M+",
+      "downloadCount": 1110000,
+      "size": "64 MB",
+      "version": "4.2.0",
+      "updatedAt": "قبل 5 أيام",
+      "gradient": "from-blue-400 via-indigo-500 to-purple-600",
+      "shadowColor": "rgba(99, 102, 241, 0.25)",
+      "emoji": "🎨",
+      "shortDesc": "فلاتر سينمائية، تفريغ الخلفيات تلقائياً وتصميم نصوص عربية مبهرة.",
+      "fullDesc": "كل أدوات تعديل الصور الاحترافية بين يديك. أزل الخلفية بنقرة واحدة، واضبط الإضاءة والألوان، واكتب بخطوط عربية فخمة مع تأثيرات بصرية.",
+      "features": [
+        "تفريغ الخلفية الفوري",
+        "أكثر من 80 فلتراً سينمائياً",
+        "مكتبة خطوط عربية",
+        "تصدير بجودة 4K فائقة"
+      ],
+      "screenshots": [
+        "أداة عزل وتفريغ الخلفية",
+        "معرض الخطوط والتأثيرات"
+      ],
+      "isFeatured": false,
+      "isPopular": false,
+      "isRecent": true,
+      "createdAt": "2026-11-06T12:44:45.878Z",
+      "reviews": [
+        {
+          "id": "r10",
+          "userName": "نورة الدوسري",
+          "avatar": "👩‍🎨",
+          "rating": 5,
+          "date": "قبل أسبوع",
+          "comment": "الخطوط العربية المتاحة في التطبيق غاية في الروعة!"
+        }
+      ],
+      "appType": "android_native",
+      "apkFileName": "استوديو_الصور_الاحترافي_v4.2.0.apk",
+      "packageName": "com.matjari.app-9",
+      "minAndroidVersion": "Android 8.0+",
+      "apkDownloadUrl": "/api/download/app-9"
+    },
+    {
+      "id": "app-10",
+      "title": "لغز الكلمات الذهبية",
+      "developer": "ألعاب العقل والذكاء",
+      "category": "ألعاب",
+      "categoryKey": "games",
+      "rating": 4.9,
+      "reviewCount": 52000,
+      "downloads": "2.5M+",
+      "downloadCount": 2540000,
+      "size": "48 MB",
+      "version": "3.0.1",
+      "updatedAt": "قبل 4 أيام",
+      "gradient": "from-amber-400 via-yellow-500 to-amber-600",
+      "shadowColor": "rgba(234, 179, 8, 0.25)",
+      "emoji": "🧩",
+      "shortDesc": "اختبر ذكاءك وحصيلتك اللغوية في لعبة كلمات متقاطعة عربية مشوقة.",
+      "fullDesc": "آلاف المراحل والألغاز الثقافية واللغوية المتنوعة التي تنشط العقل وتغذي المعرفة. العب بمفردك أو نافس أصدقاءك في تحديات يومية ممتعة.",
+      "features": [
+        "أكثر من 2000 مرحلة",
+        "تحديات أسبوعية وجوائز",
+        "تعمل بدون إنترنت",
+        "مساعدات وتلميحات ذكية"
+      ],
+      "screenshots": [
+        "شبكة الكلمات المتقاطعة",
+        "التحدي اليومي ولوحة الصدارة"
+      ],
+      "isFeatured": false,
+      "isPopular": true,
+      "isRecent": false,
+      "createdAt": "2026-11-02T12:44:45.878Z",
+      "reviews": [
+        {
+          "id": "r11",
+          "userName": "ماجد القرني",
+          "avatar": "🧠",
+          "rating": 5,
+          "date": "قبل 3 أيام",
+          "comment": "لعبة مسلية ومفيدة جداً، تزيد من الحصيلة اللغوية وتنشط العقل."
+        }
+      ],
+      "appType": "android_native",
+      "apkFileName": "لغز_الكلمات_الذهبية_v3.0.1.apk",
+      "packageName": "com.matjari.app-10",
+      "minAndroidVersion": "Android 8.0+",
+      "apkDownloadUrl": "/api/download/app-10"
+    }
+  ],
+  "logs": [
+    {
+      "id": "l1",
+      "action": "تهيئة المتجر وقاعدة البيانات",
+      "appTitle": "متجري للنظام",
+      "timestamp": "2026-11-12T12:44:45.880Z"
+    }
+  ]
+}

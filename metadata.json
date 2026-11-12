@@ -1,0 +1,6 @@
+{
+  "name": "متجري - سوق التطبيقات الحديث",
+  "description": "متجر تطبيقات عصري واحترافي باللغة العربية يتيح استكشاف وتحميل أفضل التطبيقات والألعاب بواجهة داكنة أنيقة وسريعة.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
